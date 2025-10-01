@@ -1,4 +1,4 @@
-68.6
+70.9
 
 itms-services://?action=download-manifest&url=https://look102262028.github.io/QR_Download/fund/manifest.plist
 https://look102262028.github.io/QR_Download/fund/app-debug.apk
