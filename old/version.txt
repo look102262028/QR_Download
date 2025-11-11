@@ -1,0 +1,4 @@
+0.0
+
+itms-services://?action=download-manifest&url=https://look102262028.github.io/QR_Download/old/manifest.plist
+https://look102262028.github.io/QR_Download/old/app-debug.apk
